@@ -5,6 +5,6 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+So, today i saw a lot of stuffs about my base knowledge in js, i need a lot more effort to more cool stuffs, today was a todolist https://github.com/jgguida/agenda, let's see what tomorrow have to me.
 
 ### R1D2
